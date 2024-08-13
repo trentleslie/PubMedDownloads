@@ -1,0 +1,70 @@
+01. NCD Risk Factor Collaboration (NCD-RisC). Trends in adult body-mass index in 200 countries from 1975 to 2014: a pooled analysis of 1698 population-based measurement studies with 19·2 million participants. Lancet (London, England) 387, 1377–1396 (2016).
+02. NCD Risk Factor Collaboration (NCD-RisC). Worldwide trends in body-mass index, underweight, overweight, and obesity from 1975 to 2016: a pooled analysis of 2416 population-based measurement studies in 128·9 million children, adolescents, and adults. Lancet (London, England) 390, 2627–2642 (2017).
+03. Kopelman, P. G. Obesity as a medical problem. Nature 404, 635–43 (2000).
+04. Haslam, D. W. & James, W. P. T. Obesity. Lancet (London, England) 366, 1197–209 (2005).
+05. Kahn, S. E., Hull, R. L. & Utzschneider, K. M. Mechanisms linking obesity to insulin resistance and type 2 diabetes. Nature 444, 840–6 (2006).
+06. Van Gaal, L. F., Mertens, I. L. & De Block, C. E. Mechanisms linking obesity with cardiovascular disease. Nature 444, 875–80 (2006).
+07. Magkos, F. et al. Effects of Moderate and Subsequent Progressive Weight Loss on Metabolic Function and Adipose Tissue Biology in Humans with Obesity. Cell Metab. 23, 591–601 (2016).
+08. Hamman, R. F. et al. Effect of weight loss with lifestyle intervention on risk of diabetes. Diabetes Care 29, 2102–7 (2006).
+09. Sun, Q. et al. Comparison of dual-energy x-ray absorptiometric and anthropometric measures of adiposity in relation to adiposity-related biologic factors. Am. J. Epidemiol. 172, 1442–54 (2010).
+10. Prentice, A. M. & Jebb, S. A. Beyond body mass index. Obes. Rev. 2, 141–7 (2001).
+11. Okorodudu, D. O. et al. Diagnostic performance of body mass index to identify obesity as defined by body adiposity: A systematic review and meta-analysis. Int. J. Obes. 34, 791–799 (2010).
+12. WHO Expert Consultation. Appropriate body-mass index for Asian populations and its implications for policy and intervention strategies. Lancet (London, England) 363, 157–63 (2004).
+13. Ruderman, N., Chisholm, D., Pi-Sunyer, X. & Schneider, S. The metabolically obese, normal-weight individual revisited. Diabetes 47, 699–713 (1998).
+14. Ding, C., Chan, Z. & Magkos, F. Lean, but not healthy: the 'metabolically obese, normal-weight' phenotype. Curr. Opin. Clin. Nutr. Metab. Care 19, 408–417 (2016).
+15. Smith, G. I., Mittendorfer, B. & Klein, S. Metabolically healthy obesity: facts and fantasies. J. Clin. Invest. 129, 3978–3989 (2019).
+16. Appleton, S. L. et al. Diabetes and cardiovascular disease outcomes in the metabolically healthy obese phenotype: a cohort study. Diabetes Care 36, 2388–94 (2013).
+17. Schröder, H. et al. Determinants of the transition from a cardiometabolic normal to abnormal overweight/obese phenotype in a Spanish population. Eur. J. Nutr. 53, 1345–53 (2014).
+18. Williams, S. A. et al. Plasma protein patterns as comprehensive indicators of health. Nat. Med. 25, 1851–1857 (2019).
+19. Bar, N. et al. A reference map of potential determinants for the human serum metabolome. Nature 588, 135–140 (2020).
+20. Wilmanski, T. et al. Blood metabolome predicts gut microbiome α-diversity in humans. Nat. Biotechnol. 37, 1217–1228 (2019).
+21. Cirulli, E. T. et al. Profound Perturbation of the Metabolome in Obesity Is Associated with Health Risk. Cell Metab. 29, 488-500.e2 (2019).
+22. Talmor-Barkan, Y. et al. Metabolomic and microbiome profiling reveals personalized risk factors for coronary artery disease. Nat. Med. 28, 295–302 (2022).
+23. Nimptsch, K., Konigorski, S. & Pischon, T. Diagnosis of obesity and use of obesity biomarkers in science and clinical medicine. Metabolism. 92, 61–70 (2019).
+24. Price, N. D. et al. A wellness study of 108 individuals using personal, dense, dynamic data clouds. Nat. Biotechnol. 35, 747–756 (2017).
+25. Zubair, N. et al. Genetic Predisposition Impacts Clinical Changes in a Lifestyle Coaching Program. Sci. Rep. 9, 6805 (2019).
+26. Earls, J. C. et al. Multi-Omic Biological Age Estimation and Its Correlation With Wellness and Disease Phenotypes: A Longitudinal Study of 3,558 Individuals. J. Gerontol. A. Biol. Sci. Med. Sci. 74, S52–S60 (2019).
+27. Wainberg, M. et al. Multiomic blood correlates of genetic risk identify presymptomatic disease alterations. Proc. Natl. Acad. Sci. U. S. A. 117, 21813–21820 (2020).
+28. Wilmanski, T. et al. Gut microbiome pattern reflects healthy ageing and predicts survival in humans. Nat. Metab. 3, 274–286 (2021).
+29. Zimmer, A. et al. The geometry of clinical labs and wellness states from deeply phenotyped humans. Nat. Commun. 12, 3578 (2021).
+30. Tibshirani, R. Regression Shrinkage and Selection Via the Lasso. J. R. Stat. Soc. Ser. B 58, 267–288 (1996).
+31. Moayyeri, A., Hammond, C. J., Valdes, A. M. & Spector, T. D. Cohort Profile: TwinsUK and healthy ageing twin study. Int. J. Epidemiol. 42, 76–85 (2013).
+32. Long, T. et al. Whole-genome sequencing identifies common-to-rare variants associated with human blood metabolites. Nat. Genet. 49, 568–578 (2017).
+33. Xu, X. et al. Habitual sleep duration and sleep duration variation are independently associated with body mass index. Int. J. Obes. (Lond). 42, 794–800 (2018).
+34. Stefan, N., Schick, F. & Häring, H.-U. Causes, Characteristics, and Consequences of Metabolically Unhealthy Normal Weight in Humans. Cell Metab. 26, 292–300 (2017).
+35. Blüher, M. Metabolically Healthy Obesity. Endocr. Rev. 41, 405–420 (2020).
+36. Shah, N. R. & Braverman, E. R. Measuring adiposity in patients: the utility of body mass index (BMI), percent body fat, and leptin. PLoS One 7, e33308 (2012).
+37. Tomiyama, A. J., Hunger, J. M., Nguyen-Cuu, J. & Wells, C. Misclassification of cardiometabolic health when using body mass index categories in NHANES 2005-2012. Int. J. Obes. (Lond). 40, 883–6 (2016).
+38. Bennett, C. M., Guo, M. & Dharmage, S. C. HbA(1c) as a screening tool for detection of Type 2 diabetes: a systematic review. Diabet. Med. 24, 333–43 (2007).
+39. Pereira-Santos, M., Costa, P. R. F., Assis, A. M. O., Santos, C. A. S. T. & Santos, D. B. Obesity and vitamin D deficiency: a systematic review and meta-analysis. Obes. Rev. 16, 341–9 (2015).
+40. Ridaura, V. K. et al. Gut microbiota from twins discordant for obesity modulate metabolism in mice. Science 341, 1241214 (2013).
+41. Turnbaugh, P. J. et al. A core gut microbiome in obese and lean twins. Nature 457, 480–484 (2009).
+42. Le Chatelier, E. et al. Richness of human gut microbiome correlates with metabolic markers. Nature 500, 541–546 (2013).
+43. Walters, W. A., Xu, Z. & Knight, R. Meta-analyses of human gut microbes associated with obesity and IBD. FEBS Lett. 588, 4223–4233 (2014).
+44. Duvallet, C., Gibbons, S. M., Gurry, T., Irizarry, R. A. & Alm, E. J. Meta-analysis of gut microbiome studies identifies disease-specific and shared responses. Nat. Commun. 8, 1784 (2017).
+45. Visconti, A. et al. Interplay between the human gut microbiome and host metabolism. Nat. Commun. 10, 4505 (2019).
+46. Diener, C. et al. Baseline Gut Metagenomic Functional Gene Signature Associated with Variable Weight Loss Responses following a Healthy Lifestyle Intervention in Humans. mSystems 6, e0096421 (2021).
+47. Karetnikova, E. S. et al. Is Homoarginine a Protective Cardiovascular Risk Factor? Arterioscler. Thromb. Vasc. Biol. 39, 869–875 (2019).
+48. Dieuleveux, V., Lemarinier, S. & Guéguen, M. Antimicrobial spectrum and target site of D-3-phenyllactic acid. Int. J. Food Microbiol. 40, 177–83 (1998).
+49. Beloborodova, N. et al. Effect of phenolic acids of microbial origin on production of reactive oxygen species in mitochondria and neutrophils. J. Biomed. Sci. 19, 89 (2012).
+50. Després, J.-P. & Lemieux, I. Abdominal obesity and metabolic syndrome. Nature 444, 881–7 (2006).
+51. Ashwell, M., Gunn, P. & Gibson, S. Waist-to-height ratio is a better screening tool than waist circumference and BMI for adult cardiometabolic risk factors: systematic review and meta-analysis. Obes. Rev. 13, 275–86 (2012).
+52. Swainson, M. G., Batterham, A. M., Tsakirides, C., Rutherford, Z. H. & Hind, K. Prediction of whole-body fat percentage and visceral adipose tissue mass from five anthropometric variables. PLoS One 12, e0177175 (2017).
+53. Li, Y. et al. Adrenomedullin is a novel adipokine: adrenomedullin in adipocytes and adipose tissues. Peptides 28, 1129–43 (2007).
+54. Egaña-Gorroño, L. et al. Receptor for Advanced Glycation End Products (RAGE) and Mechanisms and Therapeutic Opportunities in Diabetes and Cardiovascular Disease: Insights From Human Subjects and Animal Models. Front. Cardiovasc. Med. 7, 37 (2020).
+55. Norata, G. D. et al. Circulating soluble receptor for advanced glycation end products is inversely associated with body mass index and waist/hip ratio in the general population. Nutr. Metab. Cardiovasc. Dis. 19, 129–34 (2009).
+56. Rauschert, S., Uhl, O., Koletzko, B. & Hellmuth, C. Metabolomic biomarkers for obesity in humans: A short review. Ann. Nutr. Metab. 64, 314–324 (2014).
+57. Rangel-Huerta, O. D., Pastor-Villaescusa, B. & Gil, A. Are we close to defining a metabolomic signature of human obesity? A systematic review of metabolomics studies. Metabolomics 15, 93 (2019).
+58. Barber, M. N. et al. Plasma lysophosphatidylcholine levels are reduced in obesity and type 2 diabetes. PLoS One 7, e41456 (2012).
+59. Piening, B. D. et al. Integrative Personal Omics Profiles during Periods of Weight Gain and Loss. Cell Syst. 6, 157-170.e8 (2018).
+60. Koenig, R. J. et al. Correlation of glucose regulation and hemoglobin AIc in diabetes mellitus. N. Engl. J. Med. 295, 417–20 (1976).
+61. Wing, R. R. & Phelan, S. Long-term weight loss maintenance. Am. J. Clin. Nutr. 82, 222S-225S (2005).
+62. Li, G. et al. The long-term effect of lifestyle interventions to prevent diabetes in the China Da Qing Diabetes Prevention Study: a 20-year follow-up study. Lancet (London, England) 371, 1783–9 (2008).
+63. Diabetes Prevention Program Research Group et al. 10-year follow-up of diabetes incidence and weight loss in the Diabetes Prevention Program Outcomes Study. Lancet (London, England) 374, 1677–86 (2009).
+64. Yilmaz, P. et al. The SILVA and 'All-species Living Tree Project (LTP)' taxonomic frameworks. Nucleic Acids Res. 42, D643-8 (2014).
+65. Chen, S., Zhou, Y., Chen, Y. & Gu, J. fastp: an ultra-fast all-in-one FASTQ preprocessor. Bioinformatics 34, i884–i890 (2018).
+66. Lu, J. et al. Metagenome analysis using the Kraken software suite. Nat. Protoc. 1–25 (2022). doi:10.1038/s41596-022-00738-y
+67. Stekhoven, D. J. & Bühlmann, P. Missforest-Non-parametric missing value imputation for mixed-type data. Bioinformatics 28, 112–118 (2012).
+68. Robin, X. et al. pROC: an open-source package for R and S+ to analyze and compare ROC curves. BMC Bioinformatics 12, 77 (2011).
+69. DeLong, E. R., DeLong, D. M. & Clarke-Pearson, D. L. Comparing the areas under two or more correlated receiver operating characteristic curves: a nonparametric approach. Biometrics 44, 837–45 (1988).
+70. Gu, Z., Gu, L., Eils, R., Schlesner, M. & Brors, B. Circlize implements and enhances circular visualization in R. Bioinformatics 30, 2811–2812 (2014).
